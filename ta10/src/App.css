@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 7.5px;
+}
+
+p {
+  font-size: 1.5em;
+}
